@@ -26,7 +26,7 @@
 	</parent>
 	<groupId>com.hubbledouble</groupId>
 	<artifactId>thread-synchronization-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>thread-synchronization-example</name>
 	<description>Usage example application for thread-synchronization</description>
 
@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>com.hubbledouble</groupId>
 			<artifactId>thread-synchronization</artifactId>
-			<version>1.0.0-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 
 		<dependency>
